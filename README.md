@@ -23,13 +23,6 @@ Clone the repository or download the files:
 git clone https://github.com/MohammadSalem-7/converter.git
 ```
 
-## Usage
-
-Run the Python script:
-
-```bash
-python converter.py
-```
 
 Type your text in English, click **Convert**, and then you can **Copy** or **Clear** the text.
 
