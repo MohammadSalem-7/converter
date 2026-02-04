@@ -1,0 +1,5 @@
+1> win+r
+
+2> shell:startup
+
+3> حط البرنامج 
